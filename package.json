@@ -1,0 +1,16 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "mongoose": "^8.8.2",
+    "mongoose-findoneorcreate": "^1.0.3"
+  }
+}
